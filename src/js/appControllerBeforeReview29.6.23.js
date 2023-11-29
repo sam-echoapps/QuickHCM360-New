@@ -177,7 +177,7 @@ define([ 'ojs/ojoffcanvas' , 'knockout', 'ojs/ojmodule-element-utils', 'ojs/ojre
         self.appName('1Place For BigData Targets')
       }
       else if(self.onepDepType() == 'oracle'){
-/*         self.appName('Jobs Plus')
+/*         self.appName('QuickHCM360')
  */      }
     };
 
